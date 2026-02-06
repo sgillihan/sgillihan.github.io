@@ -1,6 +1,6 @@
----
+y ---
 layout: default
-title: Updates
+title: Weekly Updates
 permalink: /updates/
 ---
 
