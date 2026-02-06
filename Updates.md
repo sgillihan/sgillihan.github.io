@@ -1,7 +1,11 @@
-y ---
+---
 layout: default
 title: Weekly Updates
 permalink: /updates/
+---
+
+[Home](/) · [Updates](/updates/) · [Research](/research/) · [Project](/project/)
+
 ---
 
 Weekly Updates:
