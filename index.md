@@ -6,6 +6,6 @@ layout: default
 This site documents my work for my Professional Development in Computer Science project, including weekly progress updates, background research, and technical exploration.
 
 ## Site Sections
-- **Updates** — weekly progress reports
-- **Research** — background and technical research notebooks
-- **Project** — project description, goals, and artifacts
+- **[Updates](/updates/)** — weekly progress reports
+- **[Research](/research/)** — background and technical research notebooks
+- **[Project](/project/)** — project description, goals, and artifacts
