@@ -1,16 +1,11 @@
 ---
-layout: home
-title: Home
+layout: default
 ---
 
-# Stephanie Gillihan - Project Website for CSPB 3112
+## About This Project
+This site documents my work for my Professional Development in Computer Science project, including weekly progress updates, background research, and technical exploration.
 
-This site will host my weekly updates and project files.
-
-## Weekly Updates
-Check the **Updates** page (or the blog posts).
-
-## Project Files
-- [Code](code/)
-- [Data](data/)
-- [Notebooks](notebooks/)
+## Site Sections
+- **Updates** — weekly progress reports
+- **Research** — background and technical research notebooks
+- **Project** — project description, goals, and artifacts
