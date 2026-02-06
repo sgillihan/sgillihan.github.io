@@ -1,6 +1,6 @@
 title: Stephanie Gillihan
 description: CSPB 3112 Project Site
-theme: minima
+theme: jekyll-theme-cayman
 
 header_pages:
   - updates.md
