@@ -9,10 +9,9 @@ permalink: /project/
 ---
 
 ## Project Proposal
-- [Download project proposal (PDF)](/data/Project_Proposal.pdf)
-
+- [Download project proposal (PDF)]({{ "/data/Project_Proposal.pdf" | relative_url }})
 
 ## Files
-- [Code](./code/)
-- [Data](./data/)
-- [Notebooks](./notebooks/)
+- [Code](/code/)
+- [Data](/data/)
+- [Notebooks](/notebooks/)
