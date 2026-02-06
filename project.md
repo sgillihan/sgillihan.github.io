@@ -12,6 +12,6 @@ permalink: /project/
 - [Download project proposal (PDF)]({{ "/data/Project_Proposal.pdf" | relative_url }})
 
 ## Files
-- [Code](/code/)
-- [Data](/data/)
-- [Notebooks](/notebooks/)
+- [Code]({{ "/code/" | relative_url }})
+- [Data]({{ "/data/" | relative_url }})
+- [Notebooks]({{ "/notebooks/" | relative_url }})
