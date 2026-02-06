@@ -9,7 +9,7 @@ permalink: /project/
 ---
 
 ## Project Proposal
-- [Download project proposal (PDF)](/data/project_proposal.pdf)
+- [Download project proposal (PDF)](/data/Project_Proposal.pdf)
 
 
 ## Files
