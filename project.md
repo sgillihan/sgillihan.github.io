@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Project
 permalink: /project/
 ---
 
-## Project Overview
+## Project Proposal
 
 ## Files
 - [Code](./code/)
