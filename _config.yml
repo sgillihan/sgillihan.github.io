@@ -4,4 +4,5 @@ theme: minima
 
 header_pages:
   - updates.md
+  - research.md
   - project.md
