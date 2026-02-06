@@ -4,6 +4,10 @@ title: Research
 permalink: /research/
 ---
 
+[Home](/) · [Updates](/updates/) · [Research](/research/) · [Project](/project/)
+
+---
+
 ## Notebooks
 
 - [Background Research (HTML)](/notebooks/CSPB_3112_Background_Research.html)
