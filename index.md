@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Researching Socioeconomic Impacts and Technical Aspects of Proxy Data Use
 ---
 
 ## About This Project
