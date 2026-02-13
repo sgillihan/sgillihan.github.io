@@ -20,9 +20,9 @@ I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the o
 - B.S. in Applied Computer Science, University of Colorado (2024 - 2026 <i>anticipated</i>)
 - B.S. in Environmental Geoscience <i>cum laude</i>, Texas A&M University (2007 - 2011)
 
-<!-- **Experience**
-- [Position/Role]: [Description]
-- [Additional experience] -->
+**Experience**
+- Data Analyst - MFL and Geometry Level III
+- Pipeline Integrity Specialist
 
 ## Contact
 
@@ -30,7 +30,7 @@ I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the o
 - **GitHub**: [github.com/sgillihan]
 - **LinkedIn**: [linkedin.com/in/stephanie-gillihan-813a24a7]
 
-[Download Resume (PDF)](/resume/resume.pdf)
+[Download Resume (PDF)](/resume/Stephanie_Gillihan_Resume.pdf)
 
 ---
 
