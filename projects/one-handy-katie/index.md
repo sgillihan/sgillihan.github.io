@@ -8,16 +8,14 @@ title: One Handy Katie
 # One Handy Katie
 
 ## About This Project
-A website for a local businesswoman.
+A website for a local businesswoman. Includes CMS and SEO optimization. 
 
 <!-- TODO: Add more details about the website, purpose, features, etc. -->
 
 ## Repository
 <!-- TODO: Add repository link when available -->
-Repository link: [Coming soon]
+Repository link: [One Handy Katie](https://github.com/sgillihan/onehandykatie.git)
 
 ## Technologies Used
-<!-- TODO: Add technologies used (e.g., HTML, CSS, JavaScript, frameworks, etc.) -->
+Astro, Typescript, Sanity, Netlify
 
-## Project Details
-<!-- TODO: Add screenshots, features list, challenges overcome, etc. -->
