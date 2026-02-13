@@ -10,7 +10,10 @@ title: Proxy Data Research - Socioeconomic Impacts
 ## About This Project
 This site documents my work for my Professional Development in Computer Science project, including weekly progress updates, background research, and technical exploration.
 
+## Project Proposal
+- [Download project proposal (PDF)](data/Project_Proposal.pdf)
+
+
 ## Project Sections
 - **[Updates](updates.md)** — weekly progress reports
-- **[Research](research.md)** — background and technical research notebooks
-- **[Overview](overview.md)** — project description, goals, and artifacts
+- **[Research and Files](research.md)** — background and technical research notebooks, plus other relevant files

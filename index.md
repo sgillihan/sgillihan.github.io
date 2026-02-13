@@ -26,9 +26,9 @@ I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the o
 
 ## Contact
 
-- **Email**: [sgillihan@gmail.com]
-- **GitHub**: [github.com/sgillihan]
-- **LinkedIn**: [linkedin.com/in/stephanie-gillihan-813a24a7]
+- **Email**: sgillihan@gmail.com
+- **GitHub**: [github.com/sgillihan](https://github.com/sgillihan)
+- **LinkedIn**: [linkedin.com/in/stephanie-gillihan-813a24a7](https://www.linkedin.com/in/stephanie-gillihan-813a24a7)
 
 [Download Resume (PDF)](/resume/Stephanie_Gillihan_Resume.pdf)
 
