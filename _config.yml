@@ -1,8 +1,3 @@
-title: Stephanie Gillihan
-description: CSPB 3112 Project Site
+title: Stephanie Gillihan - Portfolio
+description: Personal portfolio website showcasing my professional accomplishments and software development projects
 theme: jekyll-theme-cayman
-
-header_pages:
-  - updates.md
-  - research.md
-  - project.md

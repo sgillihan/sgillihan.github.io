@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Weekly Updates
-permalink: /updates/
+permalink: /projects/proxy-data-research/updates/
 ---
 
-[Home](/) · [Updates](/updates/) · [Research](/research/) · [Project](/project/)
+[Home](/) > [Projects](/) > [Proxy Data Research](index.md) > Updates
+
+---
+
+**Navigation:** [Updates](updates.md) · [Research](research.md) · [Overview](overview.md)
 
 ---
 
