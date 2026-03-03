@@ -24,5 +24,8 @@ permalink: /projects/proxy-data-research/research/
 
 ## Code Files
 
-- [Google Data Python Exploration](code/google_data.py)
+- [Import json](code/import_json.py)
+- [Import csv from zip](code/import_csv_from_zip.py)
+- [HMDA Exploration](notebooks/HMDA_exploration.html)
+  - [Download / view .ipynb](notebooks/HMDA_exploration.ipynb)
 
