@@ -14,6 +14,7 @@ The primary goal of this project is to lay the groundwork for future development
 
 ## Project Proposal
 - [Download project proposal (PDF)](data/Project_Proposal.pdf)
+- [Download mid semester project update report (PDF)](data/Project_Update_Report.pdf)
 
 
 ## Project Sections
