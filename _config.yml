@@ -1,4 +1,5 @@
 title: Stephanie Gillihan
+masthead_title: "Pipeline Integrity | Data Engineering | Software Engineering"
 description: Personal portfolio website showcasing my professional accomplishments and software development projects
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
@@ -21,7 +22,6 @@ author:
 # Plugins
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
 

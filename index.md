@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Stephanie Gillihan
+title: About Me
 author_profile: true
 ---
 
@@ -13,7 +13,7 @@ I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the o
 - **Programming Languages**: Python, C++, Scala, JavaScript, HTML, SQL, VBA
 - **Software Skills**: Advanced Microsoft Excel, ESRI products (ArcGIS and related), Proprietary ILI software
 - **Core Competencies**: Pipeline integrity, corrosion risk analysis, MFL data analysis, Geometry or Caliper data analysis, ASME MB31G, CFR 49 Part 192 & 195, QA/QC
-- **Areas of Focus for Future Roles**: Data Analysis, Hypothesis Testing, Probability, Linear Regression, Data Engineering, Data Architecture, Intersection of Ethics and Computer Science
+- **Areas of Focus for Future Roles**: Data Analysis, Data Engineering, Data Architecture, Intersection of Ethics and Computer Science
 
 ## Education & Experience
 

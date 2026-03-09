@@ -4,8 +4,6 @@ title: Fenwick Tree Sports Tracker
 author_profile: true
 ---
 
-# Fenwick Tree Sports Tracker
-
 ## About This Project
 An early school project for my data structures class. Written in C++.
 

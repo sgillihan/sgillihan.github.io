@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300">
+  <!-- Gray topographic lines -->
+  <path d="M0,22 C80,10 160,34 260,18 S410,6 500,20 S570,26 600,22" stroke="#b0bec5" stroke-width="0.9" fill="none"/>
+  <path d="M0,50 C120,38 200,62 300,46 S450,32 530,50 S585,54 600,50" stroke="#b0bec5" stroke-width="0.9" fill="none"/>
+  <!-- Aqua accent -->
+  <path d="M0,82 C90,68 180,96 280,78 S435,62 515,84 S578,90 600,82" stroke="#3abdc8" stroke-width="1.4" fill="none"/>
+  <!-- Gray -->
+  <path d="M0,112 C110,98 190,126 290,108 S440,94 522,114 S580,120 600,112" stroke="#b0bec5" stroke-width="0.9" fill="none"/>
+  <path d="M0,142 C100,128 200,156 310,138 S460,124 542,144 S584,150 600,142" stroke="#b0bec5" stroke-width="0.9" fill="none"/>
+  <!-- Aqua accent -->
+  <path d="M0,175 C115,160 196,188 296,172 S448,156 528,176 S582,183 600,175" stroke="#3abdc8" stroke-width="1.4" fill="none"/>
+  <!-- Gray -->
+  <path d="M0,205 C105,190 185,218 285,202 S438,188 518,206 S580,213 600,205" stroke="#b0bec5" stroke-width="0.9" fill="none"/>
+  <path d="M0,235 C120,220 200,248 302,232 S452,218 532,236 S584,242 600,235" stroke="#b0bec5" stroke-width="0.9" fill="none"/>
+  <!-- Aqua accent -->
+  <path d="M0,268 C95,253 176,280 276,263 S428,248 508,268 S576,276 600,268" stroke="#3abdc8" stroke-width="1.4" fill="none"/>
+  <!-- Gray -->
+  <path d="M0,292 C110,278 190,304 290,288 S442,274 522,292 S582,298 600,292" stroke="#b0bec5" stroke-width="0.9" fill="none"/>
+</svg>

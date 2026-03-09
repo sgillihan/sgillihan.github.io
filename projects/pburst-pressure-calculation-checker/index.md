@@ -4,8 +4,6 @@ title: Pburst Pressure Calculation Checker
 author_profile: true
 ---
 
-# Pburst Pressure Calculation Checker
-
 ## About This Project
 This project is still under construction. Any ILI data analyst or pipeline integrity engineer can run this application to check ILI vendor provided pressure calculations. The application reads in an Excel file, predicts column mapping and allows the user to confirm or override mapping, and then calculates the selected Burst Pressure methods. The calculated Pburst values are compared to the Pbust values reported in the Excel sheet, with statistics such and min, mean, and max delta provided.
 
