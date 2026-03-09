@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: single
 title: Stephanie Gillihan
+author_profile: true
 ---
 
-# About Me
+I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the oil & gas pipeline integrity field for nearly 15 years, and I'm now looking forward to transitioning into a more technical role. In my professional life, I excel in roles that require meticulous attention to detail and also offer opportunities to contribute to process improvements. In my personal life, I'm a voracious reader, an avid hiker, and a striving triathlete. I'm also a happy wife and a dog mom.
 
-I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the oil & gas pipeline integrity field for nearly 15 years, and I'm now looking forward to transitioning into a more technical role. In my professional life, I excel in roles that require meticulous attention to detail and also offer opportunities to contribute to process improvements. In my personal life, I'm a voracious reader, an avid hiker, and a striving triathlete. I'm also a happy wife and a dog mom. 
+[Download Resume (PDF)](/resume/Stephanie_Gillihan_Resume.pdf){: .btn .btn--primary}
 
 ## Skills & Expertise
 
@@ -24,14 +25,6 @@ I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the o
 - Data Analyst - MFL and Geometry Level III
 - Pipeline Integrity Specialist
 
-## Contact
-
-- **Email**: sgillihan@gmail.com
-- **GitHub**: [github.com/sgillihan](https://github.com/sgillihan)
-- **LinkedIn**: [linkedin.com/in/stephanie-gillihan-813a24a7](https://www.linkedin.com/in/stephanie-gillihan-813a24a7)
-
-[Download Resume (PDF)](/resume/Stephanie_Gillihan_Resume.pdf)
-
 ---
 
 ## Featured Projects
@@ -43,4 +36,4 @@ Exploring the technical and societal impacts of proxy data use in algorithms and
 An early school project for my data structures class. Written in C++. This project demonstrates the strengths of the Fenwick Tree data structure.
 
 ### [One Handy Katie](/projects/one-handy-katie/)
-A website for a local businesswoman. Built with Astro with Sanity CSM, and deployed on Netlify. This was my first project building a product for a "client". I had to keep in mind easy long term maintainence for a non-technical person.
+A website for a local businesswoman. Built with Astro with Sanity CMS, and deployed on Netlify. This was my first project building a product for a "client". I had to keep in mind easy long term maintenance for a non-technical person.

@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: single
 title: Weekly Updates
 permalink: /projects/proxy-data-research/updates/
----
-
-[Home](/) > [Projects](/projects/) > [Proxy Data Research](index.md) > Updates
-
+author_profile: true
 ---
 
 **Navigation:** [Overview](index.md) · [Updates](updates.md) · [Research](research.md)

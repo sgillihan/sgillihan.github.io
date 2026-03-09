@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: single
 title: One Handy Katie
+author_profile: true
 ---
-
-[Home](/) > [Projects](/projects/) > One Handy Katie
 
 # One Handy Katie
 

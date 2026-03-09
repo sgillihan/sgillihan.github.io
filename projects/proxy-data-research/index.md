@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: single
 title: Proxy Data Research - Socioeconomic Impacts
+author_profile: true
 ---
-
-[Home](/) > [Projects](/projects/) > Proxy Data Research
 
 # Researching Socioeconomic Impacts and Technical Aspects of Proxy Data Use
 

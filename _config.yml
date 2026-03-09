@@ -1,3 +1,42 @@
-title: Stephanie Gillihan - Portfolio
+title: Stephanie Gillihan
 description: Personal portfolio website showcasing my professional accomplishments and software development projects
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: air
+
+# Site Author
+author:
+  name: "Stephanie Gillihan"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Data analyst and pipeline integrity specialist transitioning into software engineering and data science."
+  location: "Denver, CO"
+  email: "sgillihan@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sgillihan"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/stephanie-gillihan-813a24a7"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      breadcrumbs: true
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      breadcrumbs: true

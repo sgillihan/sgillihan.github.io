@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: single
 title: Research
 permalink: /projects/proxy-data-research/research/
----
-
-[Home](/) > [Projects](/projects/) > [Proxy Data Research](index.md) > Research
-
+author_profile: true
 ---
 
 **Navigation:** [Overview](index.md) · [Updates](updates.md) · [Research](research.md)

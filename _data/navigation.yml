@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/Stephanie_Gillihan_Resume.pdf

@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: single
 title: Fenwick Tree Sports Tracker
+author_profile: true
 ---
-
-[Home](/) > [Projects](/projects/) > Fenwick Tree Sports Tracker
 
 # Fenwick Tree Sports Tracker
 
