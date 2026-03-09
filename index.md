@@ -29,6 +29,9 @@ I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the o
 
 ## Featured Projects
 
+### [Pburst Pressure Calculation Checker](/projects/pburst-pressure-calculation-checker/)
+A burst pressure calculation application that uses ILI vendor spreadsheets to check the ILI vendor reported pressure against a calculated pressure based on reported parameters. 
+
 ### [Proxy Data Research: Socioeconomic Impacts](/projects/proxy-data-research/)
 Exploring the technical and societal impacts of proxy data use in algorithms and AI/ML systems. This project investigates how personal data is collected, what parameters are used as proxies in decision-making algorithms, and the possibility of discrimination throughout the process.
 
