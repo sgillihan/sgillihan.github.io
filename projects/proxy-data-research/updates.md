@@ -4,11 +4,11 @@ title: Weekly Updates
 permalink: /projects/proxy-data-research/updates/
 ---
 
-[Home](/) > [Projects](/) > [Proxy Data Research](index.md) > Updates
+[Home](/) > [Projects](/projects/) > [Proxy Data Research](index.md) > Updates
 
 ---
 
-**Navigation:** [Updates](updates.md) · [Research](research.md) · [Overview](overview.md)
+**Navigation:** [Overview](index.md) · [Updates](updates.md) · [Research](research.md)
 
 ---
 

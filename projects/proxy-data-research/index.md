@@ -3,7 +3,7 @@ layout: default
 title: Proxy Data Research - Socioeconomic Impacts
 ---
 
-[Home](/) > Projects > Proxy Data Research
+[Home](/) > [Projects](/projects/) > Proxy Data Research
 
 # Researching Socioeconomic Impacts and Technical Aspects of Proxy Data Use
 

@@ -3,7 +3,7 @@ layout: default
 title: Fenwick Tree Sports Tracker
 ---
 
-[Home](/) > Projects > Fenwick Tree Sports Tracker
+[Home](/) > [Projects](/projects/) > Fenwick Tree Sports Tracker
 
 # Fenwick Tree Sports Tracker
 

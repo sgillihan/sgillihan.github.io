@@ -4,11 +4,11 @@ title: Research
 permalink: /projects/proxy-data-research/research/
 ---
 
-[Home](/) > [Projects](/) > [Proxy Data Research](index.md) > Research
+[Home](/) > [Projects](/projects/) > [Proxy Data Research](index.md) > Research
 
 ---
 
-**Navigation:** [Updates](updates.md) · [Research](research.md)
+**Navigation:** [Overview](index.md) · [Updates](updates.md) · [Research](research.md)
 
 ---
 

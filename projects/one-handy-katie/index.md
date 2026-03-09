@@ -3,7 +3,7 @@ layout: default
 title: One Handy Katie
 ---
 
-[Home](/) > Projects > One Handy Katie
+[Home](/) > [Projects](/projects/) > One Handy Katie
 
 # One Handy Katie
 
