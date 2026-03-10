@@ -3,11 +3,11 @@ from __future__ import annotations
 from pathlib import Path
 import json
 import gzip
-from typing import Iterable, Iterator, Optional, Union
+from typing import Iterator, Optional, Union
 import pandas as pd
 
 def _open_text(path:Path, encoding: str = "utf-8"):
-    """Open .json/.jsol or .gz equivalent as text stream."""
+    """Open .json/.jsonl or .gz equivalent as text stream."""
     if path.suffix.lower() == ".gz":
         return gzip.open(path, mode="rt", encoding=encoding, errors="replace")
     return open(path, "rt", encoding=encoding, errors="replace")
@@ -91,14 +91,22 @@ def load_json_to_df(
 
     # --- JSONL/NDJSON path: scalable ---
     if lines:
+        if chunksize is None:
         # pandas can stream JSONL efficiently with chunksize
+            return pd.read_json(
+                p,
+                lines=True,
+                encoding=encoding,
+                **read_json_kwargs,
+            )
         return pd.read_json(
             p,
             lines=True,
-            chunksize=chunksize,
             encoding=encoding,
+            chunksize=chunksize,
             **read_json_kwargs,
         )
+        
 
     # --- Standard JSON path: loads whole object ---
     # This is the inherent limitation of monolithic JSON.
@@ -108,12 +116,52 @@ def load_json_to_df(
     if record_path is not None:
         records = _extract_by_path(obj, record_path)
         return pd.json_normalize(records, meta=meta or [])
-    else:
-        # Try to normalize nested structures; fall back to DataFrame
+    if isinstance(obj, list):
+        return pd.DataFrame(obj)
+    if isinstance(obj, dict):
+        return pd.DataFrame([obj])
+    return pd.DataFrame(obj)
+
+def export_to_parquet(
+    json_path: str | Path,
+    output_path: str | Path,
+    encoding: str = "utf-8",
+) -> dict[str,Path]:
+    """
+    Export top-level Chrome Takeout collections to separate parquet files.
+
+    Expected top-level keys include:
+    - Browser History
+    - Typed Url
+    - Session
+    - Shared Tab Group
+    """
+    json_path = Path(json_path)
+    output_path = Path(output_path)
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    collections = {
+        "Browser History": "browser_history.parquet",
+        "Typed Url": "typed_url.parquet",
+        "Session": "session.parquet",
+        "Shared Tab Group": "shared_tab_group.parquet",
+    }
+
+    output_paths = {}
+
+    for key, filename in collections.items():
         try:
-            return pd.json_normalize(obj)
-        except Exception:
-            return pd.DataFrame(obj)
+            df = load_json_to_df(json_path, record_path=key, encoding=encoding)
+            output_file = output_path / filename
+            df.to_parquet(output_file, index=False)
+            output_paths[key] = output_file
+            print(f"{key}: wrote {len(df):,} rows x {df.shape[1]} cols -> {output_file}")
+        except KeyError:
+            print(f"{key}: not found in source JSON, skipping.")
+        except Exception as e:
+            print(f"{key}: failed -> {type(e).__name__}: {e}")
+    return output_paths
+
         
 """
 Example usage:

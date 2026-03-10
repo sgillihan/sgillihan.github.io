@@ -4,6 +4,9 @@ description: Personal portfolio website showcasing my professional accomplishmen
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 
+atom_feed:
+  hide: true
+
 # Site Author
 author:
   name: "Stephanie Gillihan"

@@ -23,6 +23,8 @@ author_profile: true
 
 - [Import json](code/import_json.py)
 - [Import csv from zip](code/import_csv_from_zip.py)
-- [HMDA Exploration](notebooks/HMDA_exploration.html)
+- [HMDA Exploration (HTML)](notebooks/HMDA_exploration.html)
   - [Download / view .ipynb](notebooks/HMDA_exploration.ipynb)
+- [Google Data Exploration (HTML)](notebooks/google_data_exploration.html)
+  - Download not provided due to sensitive information
 
