@@ -17,6 +17,8 @@ author_profile: true
 - [Technical Research (HTML)](notebooks/CSPB_3112_Technical_Research.html)
   - [Download / view .ipynb](notebooks/CSPB_3112_Technical_Research.ipynb)
 
+- [Project Dictionary](notebooks/Dictionary.pdf)
+
 ---
 
 ## Code Files
