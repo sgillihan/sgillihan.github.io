@@ -11,9 +11,10 @@ The motivation for this project began with the book Weapons of Math Destruction 
 
 The primary goal of this project is to lay the groundwork for future development of an application which would make an individual's data and the ways in which it is used more transparent to the individual. Topics of exploration include algorithmic bias, proxy discrimination, data scraping, data processing, and data analysis. 
 
-## Project Proposal
+## Project Documentation
 - [Download project proposal (PDF)](data/Project_Proposal.pdf)
 - [Download mid semester project update report (PDF)](data/Project_Update_Report.pdf)
+- [Download Digital Profile Awareness Application Planning Document](data/Planning_DPA_App.pdf)
 
 
 ## Project Sections
