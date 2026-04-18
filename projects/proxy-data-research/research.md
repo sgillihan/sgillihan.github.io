@@ -29,4 +29,8 @@ author_profile: true
   - [Download / view .ipynb](notebooks/HMDA_exploration.ipynb)
 - [Google Data Exploration (HTML)](notebooks/google_data_exploration.html)
   - Download not provided due to sensitive information
+- [HMDA Modeling](/projects/proxy-data-research/notebooks/HMDA_modeling.html)
+  - [Download / view .ipynb](notebooks/HMDA_modeling.ipynb)
+- [API demo notebook](/projects/proxy-data-research/notebooks/Public_APIs.html)
+  - [Download / view .ipynb](notebooks/Public_APIs.ipynb)
 
