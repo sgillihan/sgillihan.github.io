@@ -5,7 +5,7 @@ permalink: /projects/proxy-data-research/research/
 author_profile: true
 ---
 
-**Navigation:** [Overview](index.md) · [Updates](updates.md) · [Research](research.md)
+**Navigation:** [Overview](index.md) · [Updates](updates.md) · [Research](research.md) · [Dictionary](dictionary.md)
 
 ---
 
@@ -17,7 +17,8 @@ author_profile: true
 - [Technical Research (HTML)](notebooks/CSPB_3112_Technical_Research.html)
   - [Download / view .ipynb](notebooks/CSPB_3112_Technical_Research.ipynb)
 
-- [Project Dictionary](notebooks/Dictionary.pdf)
+- [Project Dictionary](dictionary.md) — interactive, searchable web version
+  - [Download original (PDF)](notebooks/Dictionary.pdf)
 
 ---
 

@@ -20,3 +20,4 @@ The primary goal of this project is to lay the groundwork for future development
 ## Project Sections
 - **[Updates](updates.md)** — weekly progress reports
 - **[Research and Files](research.md)** — background and technical research notebooks, plus other relevant files
+- **[Project Dictionary](dictionary.md)** — searchable, filterable glossary of project terms
