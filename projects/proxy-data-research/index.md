@@ -14,7 +14,8 @@ The primary goal of this project is to lay the groundwork for future development
 ## Project Documentation
 - [Download project proposal (PDF)](data/Project_Proposal.pdf)
 - [Download mid semester project update report (PDF)](data/Project_Update_Report.pdf)
-- [Download Digital Profile Awareness Application Planning Document](data/Planning_DPA_App.pdf)
+- [Download Digital Profile Awareness Application Planning Document (PDF)](data/Planning_DPA_App.pdf)
+- [Download final project report (PDF)](data/Project_Final_Report.pdf)
 
 
 ## Project Sections
