@@ -29,14 +29,14 @@ I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the o
 
 ## Featured Projects
 
-### [Pburst Pressure Calculation Checker](/projects/pburst-pressure-calculation-checker/)
-A burst pressure calculation application that uses ILI vendor spreadsheets to check the ILI vendor reported pressure against a calculated pressure based on reported parameters. 
+### [Chess Insights (Data Mining)](/projects/data_mining-chess/)
+A data mining project that explores result predictors and play sequences in a large scale Lichess dataset. 
+
+### [One Handy Katie](/projects/one-handy-katie/)
+A website for a local businesswoman. Built with Astro with Sanity CMS, and deployed on Netlify. Includes easy maintenance for a non-technical person.
 
 ### [Proxy Data Research: Socioeconomic Impacts](/projects/proxy-data-research/)
 Exploring the technical and societal impacts of proxy data use in algorithms and AI/ML systems. This project investigates how personal data is collected, what parameters are used as proxies in decision-making algorithms, and the possibility of discrimination throughout the process.
 
 ### [Fenwick Tree Sports Tracker](/projects/fenwick-tree-sports-tracker/)
 An early school project for my data structures class. Written in C++. This project demonstrates the strengths of the Fenwick Tree data structure.
-
-### [One Handy Katie](/projects/one-handy-katie/)
-A website for a local businesswoman. Built with Astro with Sanity CMS, and deployed on Netlify. This was my first project building a product for a "client". I had to keep in mind easy long term maintenance for a non-technical person.

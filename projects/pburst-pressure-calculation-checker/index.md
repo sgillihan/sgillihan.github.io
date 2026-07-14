@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 ## About This Project
-This project is still under construction. Any ILI data analyst or pipeline integrity engineer can run this application to check ILI vendor provided pressure calculations. The application reads in an Excel file, predicts column mapping and allows the user to confirm or override mapping, and then calculates the selected Burst Pressure methods. The calculated Pburst values are compared to the Pbust values reported in the Excel sheet, with statistics such and min, mean, and max delta provided.
+This project is still under construction. Any ILI data analyst or pipeline integrity engineer can run this application to check ILI vendor provided pressure calculations. The application reads in an Excel file, predicts column mapping and allows the user to confirm or override mapping, and then calculates the selected Burst Pressure methods. The calculated Pburst values are compared to the Pburst values reported in the Excel sheet, with statistics such as min, mean, and max delta provided.
 
 Metric and Imperial units are supported. 
 
-Users can currently download the zipped application and run it locally on your desktop. Application is still in testing phase and has not been officially released. 
+Users can currently download the zipped application and run it locally on desktop. Application is still in testing phase and has not been officially released. 
 
 ## Repository
 Repository link: [Pburst Pressure Checker Repository](https://github.com/sgillihan/Pipeline_Pfail_Pressure_Checker.git)
