@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Chess Insights: Result Predictors and Play Sequences by Player Ranking
+title: "Chess Insights: Result Predictors and Play Sequences by Player Ranking"
 author_profile: true
 ---
 
