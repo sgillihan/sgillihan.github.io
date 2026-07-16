@@ -15,7 +15,7 @@ The project also explores predictive models, including logistic regression, deci
 Repository link: [Chess Insights](https://github.com/sgillihan/CSPB4502_DataMiningProject)
 
 ## Project Documentation
-Coming soon
+- [Chess Insights Pipeline Notebook](/projects/data_mining-chess/chess_mining_pipeline.html)
 
 ## Technologies Used
 - Python
