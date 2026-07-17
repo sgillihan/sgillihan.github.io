@@ -11,10 +11,9 @@ Using Python, I converted the raw PGN records into structured Parquet datasets a
 
 The project also explores predictive models, including logistic regression, decision trees, and random forests, using accuracy, precision, recall, F1 score, and confusion matrices for evaluation. In addition to prediction, the analysis emphasizes interpretability by identifying common openings and move sequences associated with different outcomes and determining whether those patterns change across rating groups.
 
-## Repository
-Repository link: [Chess Insights](https://github.com/sgillihan/CSPB4502_DataMiningProject)
-
 ## Project Documentation
+- [Project Proposal](/projects/data_mining-chess/Part2ProjectProposal_SGillihan.pdf)
+- [Project Progress Update](/projects/data_mining-chess/Part_3_Progress_Update_SGillihan.pdf)
 - [Chess Insights Pipeline Notebook](/projects/data_mining-chess/chess_mining_pipeline.html)
 
 ## Technologies Used
@@ -27,4 +26,7 @@ Repository link: [Chess Insights](https://github.com/sgillihan/CSPB4502_DataMini
 - Seaborn
 - Zstandard
 - Parquet
+
+## Repository
+Repository link: [Chess Insights](https://github.com/sgillihan/CSPB4502_DataMiningProject)
 
