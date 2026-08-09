@@ -30,7 +30,10 @@ I grew up in Houston, TX and moved to Denver, CO in 2022. I have worked in the o
 ## Featured Projects
 
 ### [Chess Insights (Data Mining)](/projects/data_mining-chess/)
-A data mining project that explores result predictors and play sequences in a large scale Lichess dataset. 
+A data mining project that explores result predictors and play sequences in a large scale Lichess dataset.
+
+### [Lunar Lander - Reinforcement Learning](/projects/lunar-lander-RL/)
+A reinforcement learning project for Intro to AI class. Uses DQN and Double DQN to train an agent. Also discusses hyperparameter tuning.
 
 ### [One Handy Katie](/projects/one-handy-katie/)
 A website for a local businesswoman. Built with Astro with Sanity CMS, and deployed on Netlify. Includes easy maintenance for a non-technical person.
