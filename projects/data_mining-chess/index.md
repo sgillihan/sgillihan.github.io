@@ -14,7 +14,8 @@ The project also explores predictive models, including logistic regression, deci
 ## Project Documentation
 - [Project Proposal](/projects/data_mining-chess/Part2ProjectProposal_SGillihan.pdf)
 - [Project Progress Update](/projects/data_mining-chess/Part_3_Progress_Update_SGillihan.pdf)
-- [Chess Insights Pipeline Notebook](/projects/data_mining-chess/chess_mining_pipeline.html)
+- [Project Final Report](/projects/data_mining-chess/Part_4_Final_Report_SGillihan.pdf)
+- [Chess Insights Full Analysis Notebook](/projects/data_mining-chess/chess_full_analysis.html)
 
 ## Technologies Used
 - Python
