@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Pburst Pressure Calculation Checker
+description: "A desktop tool for pipeline integrity engineers that checks ILI vendor burst pressure (Pburst) calculations from Excel data, in metric or imperial units."
 author_profile: true
 ---
 

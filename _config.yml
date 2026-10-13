@@ -1,6 +1,9 @@
 title: Stephanie Gillihan
 masthead_title: "Pipeline Integrity | Data Engineering | Software Engineering"
-description: Personal portfolio website showcasing my professional accomplishments and software development projects
+description: "Portfolio of Stephanie Gillihan, a Denver-based data analyst and pipeline integrity specialist working in data engineering, machine learning, and software development."
+url: "https://sgillihan.github.io"
+baseurl: ""
+og_image: "/assets/images/bio-photo.jpg"
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 
@@ -21,6 +24,14 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/stephanie-gillihan-813a24a7"
+
+# SEO: identifies the site owner to search engines (JSON-LD on the home page)
+social:
+  type: Person
+  name: "Stephanie Gillihan"
+  links:
+    - "https://github.com/sgillihan"
+    - "https://www.linkedin.com/in/stephanie-gillihan-813a24a7"
 
 # Plugins
 plugins:
@@ -43,3 +54,7 @@ defaults:
       layout: single
       author_profile: true
       breadcrumbs: true
+  - scope:
+      path: "resume/Stephanie_Gillihan_Resume_pre_optimization.pdf"
+    values:
+      sitemap: false

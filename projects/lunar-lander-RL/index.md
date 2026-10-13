@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Lunar Lander: Reinforcement Learning"
+description: "Training DQN and Double DQN agents in PyTorch to solve Gymnasium's LunarLander-v3, with hyperparameter tuning and an analysis of training stability."
 author_profile: true
 ---
 

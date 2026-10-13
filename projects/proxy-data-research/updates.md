@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Weekly Updates
+description: "Weekly progress updates from the proxy data research project on algorithmic bias and the socioeconomic impacts of data use."
 permalink: /projects/proxy-data-research/updates/
 author_profile: true
 ---

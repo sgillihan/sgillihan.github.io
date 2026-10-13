@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Project Management Tool
+description: "A Python project management tool built as a learning exercise and a showcase of custom software solutions for small businesses."
 author_profile: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Chess Insights: Result Predictors and Play Sequences by Player Ranking"
+description: "Data mining analysis of 84 million Lichess games using Python and Parquet to find result predictors and opening move sequences across player ratings."
 author_profile: true
 ---
 

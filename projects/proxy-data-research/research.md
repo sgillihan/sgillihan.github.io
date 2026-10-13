@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Research
+description: "Jupyter notebooks and research materials for the proxy data project, including HMDA mortgage data exploration and modeling."
 permalink: /projects/proxy-data-research/research/
 author_profile: true
 ---

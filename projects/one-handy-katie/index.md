@@ -1,6 +1,7 @@
 ---
 layout: single
 title: One Handy Katie
+description: "A small business website built with Astro and Sanity CMS and deployed on Netlify, designed for easy maintenance by a non-technical owner."
 author_profile: true
 ---
 

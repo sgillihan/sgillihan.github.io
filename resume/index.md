@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Resume
+description: "Resume of Stephanie Gillihan: data analyst and pipeline integrity specialist with experience in ILI data analysis, Python, SQL, and regulatory compliance."
 permalink: /resume/
 author_profile: true
 ---

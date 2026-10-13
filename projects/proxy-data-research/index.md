@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Proxy Data Research - Socioeconomic Impacts
+description: "Research into proxy data, algorithmic bias, and proxy discrimination, using HMDA mortgage data and public APIs to study the socioeconomic impacts of algorithms."
 author_profile: true
 ---
 

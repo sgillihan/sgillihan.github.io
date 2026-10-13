@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Project Dictionary
+description: "A searchable dictionary of terms used in the proxy data research project, covering algorithmic bias, data privacy, and machine learning concepts."
 permalink: /projects/proxy-data-research/dictionary/
 author_profile: true
 ---

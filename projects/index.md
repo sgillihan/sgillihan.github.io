@@ -1,9 +1,13 @@
 ---
 layout: single
 title: Projects
+description: "Data science, machine learning, and software engineering projects by Stephanie Gillihan, including reinforcement learning, data mining, and web development."
 permalink: /projects/
 author_profile: true
 ---
+
+## [Forest Cover Predictions (Supervised Machine Learning)](/projects/forest_cover_supervised_ML/)
+A supervised machine learning project for Intro to Machine Learning class. Uses Decision Tree, Random Forest, and SVM models from scikit-learn library to predict forest cover based on UCI dataset. Hyperparameter tuning, scalability, and performance metrics are investigated in detail.
 
 ## [Lunar Lander - Reinforcement Learning](/projects/lunar-lander-RL/)
 A reinforcement learning project for Intro to AI class. Uses DQN and Double DQN to train an agent. Also discusses hyperparameter tuning.

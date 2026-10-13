@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Fenwick Tree Sports Tracker
+description: "A C++ sports statistics tracker built on a Fenwick Tree (Binary Indexed Tree) for fast updates and range queries, with CSV import and editing."
 author_profile: true
 ---
 
